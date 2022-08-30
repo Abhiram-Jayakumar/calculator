@@ -1,4 +1,4 @@
-function displayNum(num){
+function display(num){
     result.value+=num
     // result.value=result.value+num
 }
